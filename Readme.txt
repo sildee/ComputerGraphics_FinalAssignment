@@ -5,5 +5,3 @@ The project showcases an intermediate understanding of C++ and implementations o
 The excel sheet in the root folder contains my own evaluation on the quality of the code!
 
 To run, clone the project and run through Visual Studio or another IDE.
-You can also run the project directly from Debug/Project1.Exe.
-
